@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build RESTful APIs using FastAPI, a modern and fast Python framework for building web APIs. Master endpoint creation, data models with Pydantic, CRUD operations, and input validation.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-08-18",
+      "attachments": [
+        {
+          "name": "FastAPI Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
