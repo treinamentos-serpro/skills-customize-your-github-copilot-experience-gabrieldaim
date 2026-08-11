@@ -1,10 +1,26 @@
-#commits
+# Project Description
 
-nesse projeto, todo commit deve começar com um prefixo que indique o tipo de alteração realizada. Os prefixos devem ser seguidos por dois pontos e um espaço antes da descrição do commit. Aqui estão os prefixos recomendados: 
-- `feat`: para novas funcionalidades
-- `fix`: para correções de bugs
-- `docs`: para alterações na documentação
-- `style`: para alterações de estilo (formatação, indentação, etc.)
-- `refactor`: para refatorações de código
-- `test`: para adições ou alterações em testes
-- `chore`: para tarefas de manutenção que não se enquadram em outras categorias
+This project is an educational website for sharing homework assignments and coding exercises with students. Students can browse, view, and download assignments directly from the portal.
+
+## Project Structure
+
+- [`assignments/`](../assignments/) Each homework assignment is stored in its own subfolder with a consistent structure.
+- [`templates/`](../templates/) Reusable templates for new content
+- [`assets/`](../assets/) Contains the website assets including CSS, JavaScript, images, and configuration files
+- [`index.html`](../index.html) The main website page that serves as a static portal for browsing and viewing assignments. Content is configurable via [`config.json`](../config.json) file to dynamically generate assignment lists and details.
+
+## Project Guidelines
+
+- Maintain consistent styling across all pages
+- Keep file and folder names descriptive and organized
+
+## Educational Standards
+
+When generating content for this project:
+
+- **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
+- **Student-friendly**: Use clear, encouraging language that motivates students
+
+#Metodologia de respostas do modo ask
+-ser mais assertivo e direto, sem rodeios
+-responder sempre em português brasil
